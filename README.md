@@ -10,5 +10,5 @@ Usage
 
 linkat-managerepo.sh [action] [repo-name]
 
-linkat-managerepo.sh create test
+linkat-managerepo.sh create test \
 linkat-managerepo.sh sync main
